@@ -3,9 +3,9 @@
 //  Copyright (c) 2015 Get Set Games Inc. All rights reserved.
 //
 
-#include "SwipeViewportClient.h"
 #include "SwipePrivatePCH.h"
 #include "Runtime/Engine/Classes/Engine/UserInterfaceSettings.h"
+#include "SwipeViewportClient.h"
 
 bool USwipeViewportClient::InputTouch(FViewport* InViewport,
 	int32 ControllerId,

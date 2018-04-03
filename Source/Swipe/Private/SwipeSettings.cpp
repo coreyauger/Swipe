@@ -3,8 +3,9 @@
 //  Copyright (c) 2015 Get Set Games Inc. All rights reserved.
 //
 
-#include "SwipeSettings.h"
 #include "SwipePrivatePCH.h"
+#include "SwipeSettings.h"
+
 
 USwipeSettings::USwipeSettings(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)

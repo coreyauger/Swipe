@@ -3,8 +3,9 @@
 //  Copyright (c) 2015 Get Set Games Inc. All rights reserved.
 //
 
-#include "SwipeComponent.h"
 #include "SwipePrivatePCH.h"
+#include "SwipeComponent.h"
+
 
 void USwipeComponent::OnRegister()
 {
